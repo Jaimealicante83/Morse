@@ -1,0 +1,96 @@
+body{
+	margin: 0;
+	background-color: #18191d;
+}
+
+article{
+	height: 87vh;
+	width: 100%;
+}
+
+article h1{
+	font-family: 'Archivo', sans-serif;
+	font-size: 44px;
+	color: #fff;
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+#forma{
+	height: 10vh;
+	max-width: 40%;
+	display: block;
+	margin: 0 auto;
+}
+
+input{
+	max-width: 400px;
+	font-family: 'Archivo', sans-serif;
+	font-size: 18px;
+	color: #fff !important;
+	width: 100%;
+	background-color:  #18191d;
+	border: none;
+	padding-bottom: 8px;
+	border-bottom: 2px solid #fff;
+}
+
+button{
+	background-color: #8f1e1e;
+	border: none;
+	font-size: 14px;
+	color: #fff;
+	padding: 30px;
+	margin-left: 50px;
+	margin-top: 1px;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+
+#container{
+	height: 30vh;
+	width: 100%;
+	background-color: #18191d;
+	z-index: 77;
+	margin: 50px auto 0 auto;
+	position: relative;
+	display: block;
+	
+}
+
+div {
+	height: 160px;
+	width: 60%;
+	background-color:  #fff;
+	display: block;
+	margin:  100px auto 150px auto;
+	padding: 0;
+	position: relative;
+}
+
+li{
+	font-family: 'Archivo', sans-serif;
+	height: 100%;
+	width: 100%;
+	display: inline;
+	margin: 0;
+	padding-top: 20px;
+	font-size: 1.3em;
+	list-style: none;
+	float: left;
+	position: relative;
+	text-align: center;
+}
+
+p{
+	margin: 20px;
+	font-family: 'Archivo', sans-serif;
+	font-size: 1.3em;
+	text-align: center;
+}
+
+
+audio{
+	display: none;
+}
